@@ -63,6 +63,14 @@ Data Visualization:
   
   ![](https://img.shields.io/badge/Data-Chart.js-None?style=flat&logo=chartdotjs&logoColor=white&color=004D4D)
   
+</div>
+
+Framework:
+
+<div align="left">
+  
+  ![](https://img.shields.io/badge/Framework-Flask-None?style=flat&logo=flask&logoColor=white&color=004D4D)
+  
 </div> 
   
 <div align="left">

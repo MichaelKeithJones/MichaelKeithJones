@@ -28,6 +28,7 @@ I'm currently:
 </div> 
 
 <p align="center"> <h3 align="center">Skills</h3> </p>
+
 <hr>
 
 Programming Languages
@@ -91,7 +92,9 @@ VCS:
   
 </div> 
   
-<div align="left"> <h2 align="center">GitHub Stats</h2> </div> 
+<div align="left"> <h3 align="center">GitHub Stats</h3> </div>
+
+<hr>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkeithjones&&show_icons=true&theme=vue-dark" width="300">
 

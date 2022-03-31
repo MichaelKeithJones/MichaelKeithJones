@@ -49,11 +49,16 @@ Backend Development:
   
 </div> 
   
-
-<p align="center">
+<div align="left">
+  
 <h3 align="center">GitHub Stats</h3>
-</p>
+  
+</div> 
+
+<div align="left">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkeithjones&&show_icons=true&theme=vue-dark" width="300">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelkeithjones&show_icons=true&theme=vue-dark" alt="michaelkeithjones" /></p>
+  
+</div>

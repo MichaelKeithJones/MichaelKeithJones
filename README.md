@@ -1,8 +1,7 @@
 <p align="center"> <img width="800" height="300" src="https://github.com/MichaelKeithJones/MichaelKeithJones/blob/main/FotoJet.png"> </p>
 
-<div align="center">
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaelkeithjones/)
-</div>
+
 
 <p align="center"> <h3 align="center">About Me</h3> </p>
 

@@ -1,7 +1,7 @@
 <p align="center"> <img width="800" height="300" src="https://github.com/MichaelKeithJones/MichaelKeithJones/blob/main/FotoJet.png"> </p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaelkeithjones/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaelkeithjones/)
 
 <p align="center"> <h3 align="center">About Me</h3> </p>
 

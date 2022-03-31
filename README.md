@@ -12,7 +12,7 @@
 
 A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 
-<p align="center"> <h3 align="center">Code Challenges</h3> </p>
+<p align="center"> <h2 align="center">Code Challenges</h2> </p>
 
 
 <div align="left">
@@ -22,7 +22,7 @@ A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with stron
   
 </div> 
 
-<p align="center"> <h3 align="center">Skills</h3> </p>
+<p align="center"> <h2 align="center">Skills</h2> </p>
 
 Programming Languages: 
 

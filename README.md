@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-None?style=flat&logo=gmail&logoColor=white&color=004D4D)](michael.k.jones.20@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-None?style=flat&logo=gmail&logoColor=white&color=004D4D)](mailto:michael.k.jones.20@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-None?style=flat&logo=linkedin&logoColor=white&color=004D4D)](https://www.linkedin.com/in/michaelkeithjones/)
 
 </div>

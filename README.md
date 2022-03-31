@@ -57,6 +57,14 @@ Database:
   
 </div> 
   
+Data Visualization:
+
+<div align="left">
+  
+  ![](https://img.shields.io/badge/Data-Chart.js-None?style=flat&logo=chartdotjs&logoColor=white&color=004D4D)
+  
+</div> 
+  
 <div align="left">
   
 <h3 align="center">GitHub Stats</h3>

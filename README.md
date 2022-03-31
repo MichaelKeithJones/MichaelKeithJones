@@ -2,8 +2,7 @@
 
 <div align="center">
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaelkeithjones/)
-<div>
-  [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://standardjs.com/)
+</div>
 
 <p align="center"> <h3 align="center">About Me</h3> </p>
 

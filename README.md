@@ -28,7 +28,6 @@ I'm currently:
 </div> 
 
 <p align="center"> <h3 align="center">Skills</h3> </p>
-
 <hr>
 
 Programming Languages

@@ -57,7 +57,7 @@ Backend Development:
 
 <div align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkeithjones&&show_icons=true&theme=vue-dark" width="300">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkeithjones&&show_icons=true&theme=vue-dark" width="300">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelkeithjones&show_icons=true&theme=vue-dark" alt="michaelkeithjones" /></p>
   

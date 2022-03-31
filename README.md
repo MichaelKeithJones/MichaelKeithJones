@@ -18,8 +18,7 @@ I'm currently:
 - 🌱  sharpening my front and backend skills
 - 👯  looking to turn my passion into a profession
 
-<p align="center"> <h3 align="center">Code Challenges</h3> </p>
-<hr>
+<h2 align="left">Code Challenges</h2>
 
 <div align="center">
   
@@ -91,7 +90,7 @@ I'm currently:
   
 </div> 
 
-<p align="left"> <h3 align="center">GitHub Stats</h3> </p>
+<h2 align="left">GitHub Stats</h2>
 
 <hr>
 

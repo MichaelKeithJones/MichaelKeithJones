@@ -27,9 +27,11 @@ I'm currently:
   
 </div> 
 
-<p align="center"> <h2 align="center">Skills</h2> </p>
+<p align="center"> <h3 align="center">Skills</h3> </p>
 
-Programming Languages: 
+<hr>
+
+Programming Languages
 
 <div align="left">
   
@@ -40,7 +42,7 @@ Programming Languages:
   
 </div> 
 
-Frontend Development: 
+Frontend Development
 
 <div align="left">
   
@@ -50,7 +52,7 @@ Frontend Development:
   
 </div> 
 
-Backend Development: 
+Backend Development
 
 <div align="left">
   
@@ -66,7 +68,7 @@ Database:
   
 </div> 
   
-Data Visualization:
+Data Visualization
 
 <div align="left">
   
@@ -74,7 +76,7 @@ Data Visualization:
   
 </div>
 
-Framework:
+Framework
 
 <div align="left">
   

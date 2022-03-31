@@ -30,6 +30,8 @@ A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with stron
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkeithjones&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="michaelkeithjones" /></p>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coryholley&&show_icons=truetheme=vue-dark" width="300">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelkeithjones&show_icons=true&locale=en&theme=vue-dark" alt="michaelkeithjones" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelkeithjones&theme=vue-dark" alt="michaelkeithjones" /></p>

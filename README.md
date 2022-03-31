@@ -8,7 +8,7 @@
 </div>
 
 
-<h2 align="center">About Me</h2>
+<h2 align="left">About Me</h2>
 
 A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 

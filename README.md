@@ -30,6 +30,16 @@ Programming Languages:
   ![](https://img.shields.io/badge/Language-Python-None?style=flat&logo=python&logoColor=white&color=004D4D)
   
 </div> 
+
+Frontend Development: 
+
+<div align="left">
+  
+  ![](https://img.shields.io/badge/Frontend-Bootstrap-None?style=flat&logo=bootstrap&logoColor=white&color=004D4D)
+  ![](https://img.shields.io/badge/Frontend-CSS3-None?style=flat&logo=css3&logoColor=white&color=004D4D)
+  ![](https://img.shields.io/badge/Frontend-HTML-None?style=flat&logo=html5&logoColor=white&color=004D4D)
+  
+</div> 
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 

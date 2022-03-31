@@ -17,7 +17,9 @@ I'm currently:
 - 🌱  sharpening my front and backend skills
 - 👯  looking to turn my passion into a profession
 
-<h2 align="left">Code Challenges</h2>
+<h2 align="left">Coding</h2>
+
+> Challenges
 
 <div align="center">
   

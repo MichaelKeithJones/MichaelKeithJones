@@ -17,8 +17,8 @@ A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with stron
 
 <div align="left">
   
-  ![](https://img.shields.io/badge/Site-HackerRank-None?style=flat&logo=hackerrank&logoColor=white&color=004D4D)
-  ![](https://img.shields.io/badge/Site-Codewars-None?style=flat&logo=codewars&logoColor=white&color=004D4D)
+  [![HackRank Badge](https://img.shields.io/badge/Coding-HackerRank-None?style=flat&logo=hackerrank&logoColor=white&color=004D4D)](https://www.hackerrank.com/michael_k_jones1)
+  ![](https://img.shields.io/badge/Coding-Codewars-None?style=flat&logo=codewars&logoColor=white&color=004D4D)
   
 </div> 
 

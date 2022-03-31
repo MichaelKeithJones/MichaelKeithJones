@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-### About Me
+<h1 align="center">Material Bread</h1>
 </p>
 A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 

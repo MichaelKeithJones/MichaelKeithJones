@@ -1,5 +1,5 @@
 <p align="center">
-  ![This is an image](https://github.com/MichaelKeithJones/MichaelKeithJones/blob/main/FotoJet.png)
+  <img width="460" height="300" src="https://github.com/MichaelKeithJones/MichaelKeithJones/blob/main/FotoJet.png">
 </p>
 
 ### About Me:

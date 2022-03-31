@@ -72,6 +72,14 @@ Framework:
   ![](https://img.shields.io/badge/Framework-Flask-None?style=flat&logo=flask&logoColor=white&color=004D4D)
   
 </div> 
+
+VCS:
+
+<div align="left">
+  
+  ![](https://img.shields.io/badge/VCS-Git-None?style=flat&logo=git&logoColor=white&color=004D4D)
+  
+</div> 
   
 <div align="left">
   

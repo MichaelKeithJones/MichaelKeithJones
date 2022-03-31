@@ -85,11 +85,7 @@ VCS:
   
 </div> 
   
-<div align="left">
-  
-<h3 align="center">GitHub Stats</h3>
-  
-</div> 
+<div align="left"> <h2 align="center">GitHub Stats</h2> </div> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkeithjones&&show_icons=true&theme=vue-dark" width="300">
 

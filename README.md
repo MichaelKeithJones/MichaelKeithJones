@@ -21,7 +21,7 @@ I'm currently:
 <p align="center"> <h3 align="center">Code Challenges</h3> </p>
 <hr>
 
-<div align="left">
+<div align="center">
   
   [![HackRank Badge](https://img.shields.io/badge/Coding-HackerRank-None?style=flat&logo=hackerrank&logoColor=white&color=inactive)](https://www.hackerrank.com/michael_k_jones1)
   [![Codewars Badge](https://img.shields.io/badge/Coding-Codewars-None?style=flat&logo=codewars&logoColor=white&color=inactive)](https://www.codewars.com/users/MichaelKeithJones)
@@ -93,7 +93,7 @@ VCS:
   
 </div> 
 
-<div align="left"> <h3 align="center">GitHub Stats</h3> </div>
+<p align="left"> <h3 align="center">GitHub Stats</h3> </p>
 
 <hr>
 

@@ -22,7 +22,12 @@ A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with stron
 
 Programming Languages: 
 
-<p align="left">
+<div align="left">
+  
+  ![](https://img.shields.io/badge/Language-C++-None?style=flat&logo=cplusplus&logoColor=white&color=004D4D)
+  
+</div> 
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>

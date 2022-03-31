@@ -21,7 +21,7 @@ I'm currently:
 
 > Challenges
 
-<div align="center">
+<div align="left">
   
   [![HackRank Badge](https://img.shields.io/badge/Coding-HackerRank-None?style=flat&logo=hackerrank&logoColor=white&color=inactive)](https://www.hackerrank.com/michael_k_jones1)
   [![Codewars Badge](https://img.shields.io/badge/Coding-Codewars-None?style=flat&logo=codewars&logoColor=white&color=inactive)](https://www.codewars.com/users/MichaelKeithJones)

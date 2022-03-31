@@ -7,10 +7,6 @@
 </p>
 A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelkeithjones&label=Profile%20views&color=0e75b6&style=flat" alt="michaelkeithjones" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelkeithjones" alt="michaelkeithjones" /></a> </p>
-
 - 🌱 I’m currently learning **JSP & Servlets**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MichaelKeithJones?tab=repositories](https://github.com/MichaelKeithJones?tab=repositories)
@@ -34,3 +30,5 @@ A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with stron
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelkeithjones&theme=vue-dark" alt="michaelkeithjones" /></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=michaelkeithjones&label=Profile%20views&color=0e75b6&style=flat" alt="michaelkeithjones" /> </p>

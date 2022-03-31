@@ -8,8 +8,7 @@
 </div>
 
 
-<p align="center"> <h3 align="center">About Me</h3> </p>
-<hr>
+<h2 align="center">About Me</h2>
 
 A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 
@@ -91,8 +90,6 @@ I'm currently:
 </div> 
 
 <h2 align="left">GitHub Stats</h2>
-
-<hr>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkeithjones&&show_icons=true&theme=vue-dark&layout=compact" height="165"/>
 

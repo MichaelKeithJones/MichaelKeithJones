@@ -8,7 +8,8 @@
 </div>
 
 
-<p align="center"> <h2 align="center">About Me</h2> </p>
+<p align="center"> <h3 align="center">About Me</h3> </p>
+<hr>
 
 A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 
@@ -17,8 +18,8 @@ I'm currently:
 - 🌱  sharpening my front and backend skills
 - 👯  looking to turn my passion into a profession
 
-<p align="center"> <h2 align="center">Code Challenges</h2> </p>
-
+<p align="center"> <h3 align="center">Code Challenges</h3> </p>
+<hr>
 
 <div align="left">
   
@@ -91,7 +92,7 @@ VCS:
   ![](https://img.shields.io/badge/VCS-Git-None?style=flat&logo=git&logoColor=white&color=white)
   
 </div> 
-  
+
 <div align="left"> <h3 align="center">GitHub Stats</h3> </div>
 
 <hr>

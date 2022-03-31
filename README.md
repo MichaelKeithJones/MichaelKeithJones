@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=004D4D)](https://www.linkedin.com/in/michaelkeithjones/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-Teal?style=flat&logo=linkedin&logoColor=white&color=004D4D)](https://www.linkedin.com/in/michaelkeithjones/)
 
 </div>
 

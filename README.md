@@ -27,6 +27,7 @@ Programming Languages:
   ![](https://img.shields.io/badge/Language-C++-None?style=flat&logo=cplusplus&logoColor=white&color=004D4D)
   ![](https://img.shields.io/badge/Language-Java-None?style=flat&logo=java&logoColor=white&color=004D4D)
   ![](https://img.shields.io/badge/Language-JavaScript-None?style=flat&logo=javascript&logoColor=white&color=004D4D)
+  ![](https://img.shields.io/badge/Language-Python-None?style=flat&logo=python&logoColor=white&color=004D4D)
   
 </div> 
   

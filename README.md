@@ -18,7 +18,7 @@ A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with stron
 <div align="left">
   
   [![HackRank Badge](https://img.shields.io/badge/Coding-HackerRank-None?style=flat&logo=hackerrank&logoColor=white&color=004D4D)](https://www.hackerrank.com/michael_k_jones1)
-  ![](https://img.shields.io/badge/Coding-Codewars-None?style=flat&logo=codewars&logoColor=white&color=004D4D)
+  [![Codewars Badge](https://img.shields.io/badge/Coding-Codewars-None?style=flat&logo=codewars&logoColor=white&color=004D4D)](https://www.codewars.com/users/MichaelKeithJones)
   
 </div> 
 

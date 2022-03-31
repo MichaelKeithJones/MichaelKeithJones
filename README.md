@@ -2,11 +2,10 @@
   <img width="800" height="300" src="https://github.com/MichaelKeithJones/MichaelKeithJones/blob/main/FotoJet.png">
 </p>
 
-### About Me:
-A detailed-oriented Marine Corps Veteran and Software Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
-
-<h1 align="center">Hi 👋, I'm Michael Jones</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<p align="center">
+### About Me
+</p>
+A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelkeithjones&label=Profile%20views&color=0e75b6&style=flat" alt="michaelkeithjones" /> </p>
 

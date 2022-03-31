@@ -21,7 +21,7 @@ A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with stron
 <a href="https://www.hackerrank.com/michael_k_jones1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="michael_k_jones1" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <h3 align="center">Languages and Tools</h3> </p>
+<p align="center"> <h3 align="center">Skills</h3> </p>
 
 Programming Languages: 
 

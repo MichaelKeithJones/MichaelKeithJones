@@ -1,4 +1,6 @@
-![This is an image](https://github.com/MichaelKeithJones/MichaelKeithJones/blob/main/FotoJet.png)
+<center>
+  ![This is an image](https://github.com/MichaelKeithJones/MichaelKeithJones/blob/main/FotoJet.png)
+</center>
 
 ### About Me:
 A detailed-oriented Marine Corps Veteran and Software Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.

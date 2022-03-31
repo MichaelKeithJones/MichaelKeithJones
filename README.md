@@ -12,14 +12,6 @@
 
 A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 
-- 🌱 I’m currently learning **JSP & Servlets**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MichaelKeithJones?tab=repositories](https://github.com/MichaelKeithJones?tab=repositories)
-
-- 📫 How to reach me **michael.k.jones.20@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/michaelkeithjones/](https://www.linkedin.com/in/michaelkeithjones/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michaelkeithjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelkeithjones" height="30" width="40" /></a>

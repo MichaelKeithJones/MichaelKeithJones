@@ -12,11 +12,15 @@
 
 A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michaelkeithjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelkeithjones" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/michael_k_jones1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="michael_k_jones1" height="30" width="40" /></a>
-</p>
+<p align="center"> <h3 align="center">Code Challenges</h3> </p>
+
+
+<div align="left">
+  
+  ![](https://img.shields.io/badge/Site-HackerRank-None?style=flat&logo=hackerrank&logoColor=white&color=004D4D)
+  ![](https://img.shields.io/badge/Site-Codewars-None?style=flat&logo=codewars&logoColor=white&color=004D4D)
+  
+</div> 
 
 <p align="center"> <h3 align="center">Skills</h3> </p>
 

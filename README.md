@@ -28,9 +28,7 @@ I'm currently:
   
 </div> 
 
-<p align="center"> <h3 align="center">Skills</h3> </p>
-
-<hr>
+<p align="left"> <h2 align="center">Skills</h2> </p>
 
 Programming Languages
 

@@ -22,8 +22,8 @@ I'm currently:
 
 <div align="left">
   
-  [![HackRank Badge](https://img.shields.io/badge/Coding-HackerRank-None?style=flat&logo=hackerrank&logoColor=white&color=004D4D)](https://www.hackerrank.com/michael_k_jones1)
-  [![Codewars Badge](https://img.shields.io/badge/Coding-Codewars-None?style=flat&logo=codewars&logoColor=white&color=004D4D)](https://www.codewars.com/users/MichaelKeithJones)
+  [![HackRank Badge](https://img.shields.io/badge/Coding-HackerRank-None?style=flat&logo=hackerrank&logoColor=white&color=inactive)](https://www.hackerrank.com/michael_k_jones1)
+  [![Codewars Badge](https://img.shields.io/badge/Coding-Codewars-None?style=flat&logo=codewars&logoColor=white&color=inactive)](https://www.codewars.com/users/MichaelKeithJones)
   
 </div> 
 
@@ -54,7 +54,7 @@ Backend Development:
 
 <div align="left">
   
-  ![](https://img.shields.io/badge/Backend-Spring-None?style=flat&logo=spring&logoColor=white&color=004D4D)
+  ![](https://img.shields.io/badge/Backend-Spring-None?style=flat&logo=spring&logoColor=white&color=green)
   
 </div>
 
@@ -62,7 +62,7 @@ Database:
 
 <div align="left">
   
-  ![](https://img.shields.io/badge/Database-MySQL-None?style=flat&logo=mysql&logoColor=white&color=004D4D)
+  ![](https://img.shields.io/badge/Database-MySQL-None?style=flat&logo=mysql&logoColor=white&color=blue)
   
 </div> 
   

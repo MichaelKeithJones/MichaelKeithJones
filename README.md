@@ -99,5 +99,5 @@ VCS:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkeithjones&&show_icons=true&theme=vue-dark&layout=compact"/>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=michaelkeithjones&show_icons=true&theme=vue-dark" alt="michaelkeithjones" width="450"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=michaelkeithjones&show_icons=true&theme=vue-dark" alt="michaelkeithjones" height="250"/></p>
   

@@ -47,6 +47,14 @@ Backend Development:
   
   ![](https://img.shields.io/badge/Backend-Spring-None?style=flat&logo=spring&logoColor=white&color=004D4D)
   
+</div>
+
+Database: 
+
+<div align="left">
+  
+  ![](https://img.shields.io/badge/Database-MySQL-None?style=flat&logo=mysql&logoColor=white&color=004D4D)
+  
 </div> 
   
 <div align="left">

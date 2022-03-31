@@ -1,10 +1,9 @@
-<p align="center">
-  <img width="800" height="300" src="https://github.com/MichaelKeithJones/MichaelKeithJones/blob/main/FotoJet.png">
-</p>
+<p align="center"> <img width="800" height="300" src="https://github.com/MichaelKeithJones/MichaelKeithJones/blob/main/FotoJet.png"> </p>
 
-<p align="center">
-<h3 align="center">About Me</h3>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=michaelkeithjones&label=Profile%20views&color=0e75b6&style=flat" alt="michaelkeithjones" /> </p>
+
+<p align="center"> <h3 align="center">About Me</h3> </p>
+
 A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 
 - 🌱 I’m currently learning **JSP & Servlets**
@@ -46,6 +45,3 @@ Programming Languages:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelkeithjones&show_icons=true&theme=vue-dark" alt="michaelkeithjones" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelkeithjones&theme=vue-dark" alt="michaelkeithjones" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michaelkeithjones&label=Profile%20views&color=0e75b6&style=flat" alt="michaelkeithjones" /> </p>

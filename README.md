@@ -30,7 +30,7 @@ I'm currently:
 
 <h2 align="left">Skills</h2>
 
-Programming Languages
+> Programming Languages
 
 <div align="left">
   
@@ -41,7 +41,7 @@ Programming Languages
   
 </div> 
 
-Frontend Development
+> Frontend Development
 
 <div align="left">
   
@@ -51,7 +51,7 @@ Frontend Development
   
 </div> 
 
-Backend Development
+> Backend Development
 
 <div align="left">
   
@@ -59,7 +59,7 @@ Backend Development
   
 </div>
 
-Database: 
+> Database: 
 
 <div align="left">
   
@@ -67,7 +67,7 @@ Database:
   
 </div> 
   
-Data Visualization
+> Data Visualization
 
 <div align="left">
   
@@ -83,7 +83,7 @@ Data Visualization
   
 </div> 
 
-VCS:
+> VCS:
 
 <div align="left">
   

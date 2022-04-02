@@ -30,11 +30,11 @@ I'm currently:
 
 <h2 align="left">Skills</h2>
 
-> Programming Languages
+Programming Languages
 
 <div align="left">
   
->> ![](https://img.shields.io/badge/Language-C++-None?style=flat&logo=cplusplus&logoColor=white&color=red)
+  > ![](https://img.shields.io/badge/Language-C++-None?style=flat&logo=cplusplus&logoColor=white&color=red)
   ![](https://img.shields.io/badge/Language-Java-None?style=flat&logo=java&logoColor=white&color=red)
   ![](https://img.shields.io/badge/Language-JavaScript-None?style=flat&logo=javascript&logoColor=white&color=red)
   ![](https://img.shields.io/badge/Language-Python-None?style=flat&logo=python&logoColor=white&color=red)

@@ -19,11 +19,11 @@ I'm currently:
 
 <h2 align="left">Coding</h2>
 
-> Challenges
+Challenges
 
 <div align="left">
   
-  [![HackRank Badge](https://img.shields.io/badge/Coding-HackerRank-None?style=flat&logo=hackerrank&logoColor=white&color=inactive)](https://www.hackerrank.com/michael_k_jones1)
+  > [![HackRank Badge](https://img.shields.io/badge/Coding-HackerRank-None?style=flat&logo=hackerrank&logoColor=white&color=inactive)](https://www.hackerrank.com/michael_k_jones1)
   [![Codewars Badge](https://img.shields.io/badge/Coding-Codewars-None?style=flat&logo=codewars&logoColor=white&color=inactive)](https://www.codewars.com/users/MichaelKeithJones)
   
 </div> 
@@ -51,43 +51,43 @@ Frontend Development
   
 </div> 
 
-> Backend Development
+Backend Development
 
 <div align="left">
   
-  ![](https://img.shields.io/badge/Backend-Spring-None?style=flat&logo=spring&logoColor=white&color=green)
+  > ![](https://img.shields.io/badge/Backend-Spring-None?style=flat&logo=spring&logoColor=white&color=green)
   
 </div>
 
-> Database: 
+Database: 
 
 <div align="left">
   
-  ![](https://img.shields.io/badge/Database-MySQL-None?style=flat&logo=mysql&logoColor=white&color=blue)
+  > ![](https://img.shields.io/badge/Database-MySQL-None?style=flat&logo=mysql&logoColor=white&color=blue)
   
 </div> 
   
-> Data Visualization
+Data Visualization
 
 <div align="left">
   
-  ![](https://img.shields.io/badge/Data-Chart.js-None?style=flat&logo=chartdotjs&logoColor=white&color=blueviolet)
+  > ![](https://img.shields.io/badge/Data-Chart.js-None?style=flat&logo=chartdotjs&logoColor=white&color=blueviolet)
   
 </div>
 
-> Framework
+Framework
 
 <div align="left">
   
-  ![](https://img.shields.io/badge/Framework-Flask-None?style=flat&logo=flask&logoColor=white&color=ff69b4)
+  > ![](https://img.shields.io/badge/Framework-Flask-None?style=flat&logo=flask&logoColor=white&color=ff69b4)
   
 </div> 
 
-> VCS:
+VCS:
 
 <div align="left">
   
-  ![](https://img.shields.io/badge/VCS-Git-None?style=flat&logo=git&logoColor=white&color=white)
+  > ![](https://img.shields.io/badge/VCS-Git-None?style=flat&logo=git&logoColor=white&color=white)
   
 </div> 
 

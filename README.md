@@ -41,11 +41,11 @@ Programming Languages
   
 </div> 
 
-> Frontend Development
+Frontend Development
 
 <div align="left">
   
-  ![](https://img.shields.io/badge/Frontend-Bootstrap-None?style=flat&logo=bootstrap&logoColor=white&color=yellow)
+  > ![](https://img.shields.io/badge/Frontend-Bootstrap-None?style=flat&logo=bootstrap&logoColor=white&color=yellow)
   ![](https://img.shields.io/badge/Frontend-CSS3-None?style=flat&logo=css3&logoColor=white&color=yellow)
   ![](https://img.shields.io/badge/Frontend-HTML-None?style=flat&logo=html5&logoColor=white&color=yellow)
   

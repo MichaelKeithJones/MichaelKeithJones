@@ -13,7 +13,7 @@
 A detailed-oriented Marine Corps Veteran and Full Stack Web Developer with strong critical-thinking skills, and a passion for learning and computer programming. I hope to contribute my technical, professional, and 20 years of leadership experience to a new team while honing old and new skills.
 
 I'm currently:
-- 🔭  working on a terrain generator in Open GL and C++
+- 🔭  working on a Spring Boot application w/ React.js frontend.
 - 🌱  sharpening my front and backend skills
 - 👯  looking to turn my passion into a profession
 
